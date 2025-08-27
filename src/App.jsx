@@ -127,7 +127,7 @@ import Toast from "./components/Toast.jsx";
 /* Medium items using user's banners */
 const MEDIUM = [
   {
-    title: "Concurrency & Parallelism in Node.js",
+    title: "Secure Node JS Patterns",
     url: "https://medium.com/javascript-in-plain-english/concurrency-parallelism-in-node-js-beyond-buzzwords-ecf18282a27e",
     snippet: "Clear mental model + practical patterns to avoid bottlenecks.",
     banner: "/banners/concurrency.png",
